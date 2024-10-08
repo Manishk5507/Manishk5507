@@ -5,7 +5,7 @@
 🚀 I enjoy creating full-stack web applications, combining my skills in frontend and backend development. <br/>
 🎓 I'm a B.Tech student at the Indian Institute of Information Technology, Lucknow, pursuing Computer Science and Business(CSB) branch. <br/>
 💞️ I’m open to collaborating on exciting web development projects, leveraging my expertise in both frontend and backend development. <br/>
-📫 You can reach me through direct messages on this platform or via email at 7055ranamanish@gmail.com. <br/>
+📫 You can reach me via email at 7055ranamanish@gmail.com. <br/>
 😄 Pronouns: He/Him <br/>
 ⚡ Fun fact: I love experimenting with new web design trends and techniques, and I'm always excited to see how technology continues to shape the future of the web.<br/>
 
